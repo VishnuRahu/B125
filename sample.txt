@@ -1,13 +1,5 @@
 Hey, Im learning git mann
 
 changes from vs
-Message from local
-
-changes from git hub
-
-another change in local 
-
-change from local 3
-
-another chnge from git hub
+check for conflicts
 
