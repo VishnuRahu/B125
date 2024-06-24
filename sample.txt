@@ -1,2 +1,5 @@
-Hey
+Hey, Im learning git mann
+
+changes from vs
+check for conflicts
 
